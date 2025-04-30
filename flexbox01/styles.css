@@ -1,0 +1,32 @@
+.one {
+    color: white;
+    background: blue;
+}
+.two {
+    color: white;
+    background: blue;
+}
+.three {
+    color: white;
+    background: blue;
+}
+.container {
+    display: flex;
+    gap: 15px;
+}
+
+.parrafo {
+    background: red;
+}
+.div {
+    background: blue;
+}
+.span {
+    background: green;
+}
+
+.container2 {
+    display: flex;
+    gap: 10px;
+}
+
